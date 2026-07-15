@@ -1,0 +1,11 @@
+/* Importation des Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400;600&display=swap');
+
+/* Style des polices spécifiques */
+.font-serif-elegant {
+    font-family: 'Cinzel', serif;
+}
+
+.font-sans-clean {
+    font-family: 'Montserrat', sans-serif;
+}
